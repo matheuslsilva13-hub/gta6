@@ -27,11 +27,6 @@ Cada registro salvo na aplicação possui a seguinte estrutura:
 
 ---
 
-## 🛠️ Como Executar o Projeto
 
-1. **Clonar/Preparar a pasta do projeto**:
-   ```bash
-   mkdir api-reclamacoes
-   cd api-reclamacoes
 
 
